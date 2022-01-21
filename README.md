@@ -73,5 +73,8 @@ A curated list of awesome resources about blockchain scalability.
 - [Increasing scalability of the EVM for rollups by restricting state and contract set](https://forum.celestia.org/t/increasing-scalability-of-the-evm-for-rollups-by-restricting-state-and-contract-set/78), Celestia Forum
 - [An open, modular stack for EVM-based applications using Celestia, Evmos, and Cosmos](https://forum.celestia.org/t/an-open-modular-stack-for-evm-based-applications-using-celestia-evmos-and-cosmos/89), Mustafa Al-Bassam
 
+## Parallelization
+- [Speeding up the EVM (part 1)](https://writings.flashbots.net/research/speeding-up-evm-part-1/), Flashbots
+
 ## Stats
 - [L2Beat](https://l2beat.com/)
