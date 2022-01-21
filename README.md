@@ -59,7 +59,7 @@ A curated list of awesome resources about blockchain scalability.
 - [Idan’s Rollups Repo](https://collidervc.notion.site/collidervc/Idan-s-Rollups-Repo-f285c6d85d4b41e8a3a37c54aa140f87), Collidervc
 
 ## Volition
-- [Volitions: best of all worlds](https://polynya.medium.com/volitions-best-of-all-worlds-cfd313aec9a8)
+- [Volitions: best of all worlds](https://polynya.medium.com/volitions-best-of-all-worlds-cfd313aec9a8), Polynya
 - [What is zkPorter?](https://zksync.io/zkevm/#what-is-zkporter), zkSync
 - [zkPorter: a breakthrough in L2 scaling](https://blog.matter-labs.io/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf), Matter Labs
 
