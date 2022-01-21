@@ -48,9 +48,17 @@ A curated list of awesome resources about blockchain scalability.
 ### Optimistic Rollups
 - [Optimistic Rollups: the present and future of Ethereum scaling](https://medium.com/offchainlabs/optimistic-rollups-the-present-and-future-of-ethereum-scaling-60fb9067ae87), Offchain Labs
 - [(Almost) Everything you need to know about Optimistic Rollup](https://www.paradigm.xyz/2021/01/almost-everything-you-need-to-know-about-optimistic-rollup/), Paradigm
-- [Multi round Fraud Proofs: What, How, and Why.](https://www.youtube.com/watch?v=NxvGatp9dIE), Arbitrum
-- [How does Optimism's Rollup really work?](https://research.paradigm.xyz/optimism), Paradigm
+
+##### Optimism
+[Optimism Docs](https://community.optimism.io/)
+
 - [OVM Deep Dive](https://medium.com/ethereum-optimism/ovm-deep-dive-a300d1085f52), Optimism
+- [How does Optimism's Rollup really work?](https://research.paradigm.xyz/optimism), Paradigm
+
+#### Arbitrum
+[Arbitrum Docs](https://developer.offchainlabs.com/docs/inside_arbitrum)
+
+- [Multi round Fraud Proofs: What, How, and Why.](https://www.youtube.com/watch?v=NxvGatp9dIE), Arbitrum
 
 ### Others rollup resources aggregators:
 - [Idan’s Rollups Repo](https://collidervc.notion.site/collidervc/Idan-s-Rollups-Repo-f285c6d85d4b41e8a3a37c54aa140f87), Collidervc
