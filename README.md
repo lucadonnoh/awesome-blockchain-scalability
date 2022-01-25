@@ -9,10 +9,12 @@ A curated list of awesome resources about blockchain scalability.
 ## Sharding
 - [Data Sharding Roadmap - The rollupooors' perspective](https://soundcloud.com/daniel-goldman-84321635/data-sharding-roadmap-a-rollups-perspective?utm_campaign=social_sharing&utm_source=mobi&utm_terms=social_sharing_on_mobi.control), Daniel Goldman
 - [New sharding design with tight beacon and shard block integration](https://notes.ethereum.org/@dankrad/new_sharding), Dankrad
+- [Simple approach to incentivizing shard staggering](https://ethresear.ch/t/simple-approach-to-incentivizing-shard-staggering/9149), Ethereum Research
 
 ## Data availability
 - [What Is Data Availability?](https://coinmarketcap.com/alexandria/article/what-is-data-availability), CoinMarketCap
 - [Data availability sampling in practice](https://notes.ethereum.org/@vbuterin/r1v8VCULP), Vitalik Butern
+- [Separating the Monolith](https://mirror.xyz/pseudotheos.eth/SAg6yMZqd-z-BzFsKjLpZaZ9Rbv2ZEMtYT7mwvDiH94), pseudotheos
 - [A note on data availability and erasure coding](https://github.com/ethereum/research/wiki/A-note-on-data-availability-and-erasure-coding), Ethereum Research
 - [Fraud and Data Availability Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](https://arxiv.org/pdf/1809.09044.pdf), Mustafa Al-Bassam et al.
 - [LazyLedger: A Distributed Data Availability Ledger With Client-Side Smart Contracts](https://arxiv.org/pdf/1905.09274.pdf), Mustafa Al-Bassam
