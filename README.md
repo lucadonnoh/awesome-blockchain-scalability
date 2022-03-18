@@ -63,6 +63,7 @@ A curated list of awesome resources about blockchain scalability.
 ### Optimistic Rollups
 - [Optimistic Rollups: the present and future of Ethereum scaling](https://medium.com/offchainlabs/optimistic-rollups-the-present-and-future-of-ethereum-scaling-60fb9067ae87), Offchain Labs
 - [(Almost) Everything you need to know about Optimistic Rollup](https://www.paradigm.xyz/2021/01/almost-everything-you-need-to-know-about-optimistic-rollup/), Paradigm
+- [Optimistic Rollup, from the Bottom Up](https://gourmetcrypto.substack.com/p/optimistic-rollups-from-the-bottom?s=r), Ali Atiia
 
 - [Optimism Docs](https://community.optimism.io/)
   + [OVM Deep Dive](https://medium.com/ethereum-optimism/ovm-deep-dive-a300d1085f52), Optimism
