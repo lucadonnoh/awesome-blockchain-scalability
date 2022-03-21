@@ -11,6 +11,7 @@ A curated list of awesome resources about blockchain scalability.
 - [Data Sharding Roadmap - The rollupooors' perspective](https://soundcloud.com/daniel-goldman-84321635/data-sharding-roadmap-a-rollups-perspective?utm_campaign=social_sharing&utm_source=mobi&utm_terms=social_sharing_on_mobi.control), Daniel Goldman
 - [New sharding design with tight beacon and shard block integration](https://notes.ethereum.org/@dankrad/new_sharding), Dankrad
 - [Simple approach to incentivizing shard staggering](https://ethresear.ch/t/simple-approach-to-incentivizing-shard-staggering/9149), Ethereum Research
+- [EIP-4844: Proto-Danksharding](https://www.eip4844.com/), liam.eth
 
 ## Data availability
 - [What Is Data Availability?](https://coinmarketcap.com/alexandria/article/what-is-data-availability), CoinMarketCap
