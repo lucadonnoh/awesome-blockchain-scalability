@@ -32,6 +32,7 @@ A curated list of awesome resources about blockchain scalability.
 - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html), Vitalik Buterin
 - [Validity Proofs vs. Fraud Proofs](https://medium.com/starkware/validity-proofs-vs-fraud-proofs-4ef8b4d3d87a), StarkWare
 - [Optimistic vs. ZK Rollup: Deep Dive](https://blog.matter-labs.io/optimistic-vs-zk-rollup-deep-dive-ea141e71e075), Matter Labs
+- [https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698), Vitalik Buterin
 
 ### ZK Rollups
 - [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), Matthew Green
