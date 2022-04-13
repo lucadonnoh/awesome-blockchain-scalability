@@ -33,7 +33,8 @@ A curated list of awesome resources about blockchain scalability.
 - [Validity Proofs vs. Fraud Proofs](https://medium.com/starkware/validity-proofs-vs-fraud-proofs-4ef8b4d3d87a), StarkWare
 - [Optimistic vs. ZK Rollup: Deep Dive](https://blog.matter-labs.io/optimistic-vs-zk-rollup-deep-dive-ea141e71e075), Matter Labs
 - [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698), Vitalik Buterin
-- [Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework](https://blog.matter-labs.io/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955), by Matter Labs
+- [Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework](https://blog.matter-labs.io/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955), Matter Labs
+- [The benefits of optimistic rollups compared to ZK Rollups](https://www.alexbeckett.xyz/the-benefits-of-optimistic-rollups-compared-to-zk-rollups/), Alex Beckett
 
 ### ZK Rollups
 - [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), Matthew Green
@@ -72,6 +73,7 @@ A curated list of awesome resources about blockchain scalability.
 - [Optimism Docs](https://community.optimism.io/)
   + [OVM Deep Dive](https://medium.com/ethereum-optimism/ovm-deep-dive-a300d1085f52), Optimism
   + [How does Optimism's Rollup really work?](https://research.paradigm.xyz/optimism), Paradigm
+  + [The roas to sub dollar transactions: part 2 - compression edition](https://medium.com/ethereum-optimism/the-road-to-sub-dollar-transactions-part-2-compression-edition-6bb2890e3e92), Optimism
 - [Arbitrum Docs](https://developer.offchainlabs.com/docs/inside_arbitrum)
   + [What is Arbitrum?](https://coinmarketcap.com/alexandria/article/what-is-arbitrum), CoinMarketCap
   + [Multi round Fraud Proofs: What, How, and Why.](https://www.youtube.com/watch?v=NxvGatp9dIE), Arbitrum
