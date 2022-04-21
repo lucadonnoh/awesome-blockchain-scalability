@@ -57,6 +57,7 @@ A curated list of awesome resources about blockchain scalability.
 - [On the Road to StarkNet: A Permissionless STARK-Powered L2 ZK-Rollup](https://medium.com/starkware/on-the-road-to-starknet-a-permissionless-stark-powered-l2-zk-rollup-83be53640880), StarkWare
 - [zkSync is Live! Bringing Trustless, Scalable Payments to Ethereum](https://blog.matter-labs.io/zksync-is-live-bringing-trustless-scalable-payments-to-ethereum-9c634b3e6823), Matter Labs
 - [Zero-Knowledge Blockchain Scalability](https://ethworks.io/assets/download/zero-knowledge-blockchain-scaling-ethworks.pdf), Ethworks
+- [Simple Explanations of Arithmetic Circuits and Zero-Knowledge Proofs](https://medium.com/web3studio/simple-explanations-of-arithmetic-circuits-and-zero-knowledge-proofs-806e59a79785), Hadas Zeilberger
 
 #### Others zk resources aggregators:
 - [ZK: Zero to Hero](https://resilient-monarch-9ed.notion.site/ZK-Zero-to-Hero-ea37754ba8e445648e96b9cc78e47c7a), Resilient Monarch
