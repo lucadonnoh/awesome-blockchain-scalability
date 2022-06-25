@@ -39,6 +39,7 @@ A curated list of awesome resources about blockchain scalability.
 
 ### ZK Rollups
 - [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), Matthew Green
+- [Zero Knowledge Proofs: An illustrated primer, Part 2](https://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer-part-2/), Matthew Green
 - [Ethereum-powered ZK-Rollups: World Beaters](https://hackmd.io/@canti/rkUT0BD8K), Canti
 - [Hasu gets STARK-pilled - with Eli Ben-Sasson (StarkWare)](https://www.youtube.com/watch?v=-6BtBUbiUIU), Uncommon Core
 - [What are Zero Knowledge Proofs?](https://decrypt.co/resources/zero-knowledge-proofs-explained-learn-guide), Decrypt
