@@ -36,6 +36,7 @@ A curated list of awesome resources about blockchain scalability.
 - [Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework](https://blog.matter-labs.io/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955), Matter Labs
 - [The benefits of optimistic rollups compared to ZK Rollups](https://www.alexbeckett.xyz/the-benefits-of-optimistic-rollups-compared-to-zk-rollups/), Alex Beckett
 - [The path towards scaling rollups](https://www.alexbeckett.xyz/the-path-toward-scaling-rollups/), Alex Beckett
+- [Zk Proofs & Rollups](https://polybase.xyz/blog/zk-proofs-and-rollups), Polybase
 
 ### ZK Rollups
 - [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), Matthew Green
